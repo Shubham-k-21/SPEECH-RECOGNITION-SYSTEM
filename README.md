@@ -15,7 +15,7 @@
 *DESCRIPTION OF TASK*: The Push Button Counter is a simple yet essential embedded systems project designed to count the number of times a push button is pressed and display the result either via serial monitor or on an output display like an LCD or 7-segment module. This project involves interfacing a digital input (push button) with a microcontroller such as Arduino, ESP32, or ARM LPC2148 using GPIO pins. Tools and platforms used include a microcontroller board, push button, resistors, breadboard, jumper wires, and programming environments like Arduino IDE or Keil uVision. The system works by detecting button presses, implementing software debouncing to avoid false triggers, and incrementing a counter variable that updates the display. It serves as a foundational learning experience in embedded C programming, digital input handling, and real-time control. The push button counter has wide applications including people counting systems, digital voting, part counting in manufacturing, or user interface input in embedded devices. This project reinforces key skills in circuit design, coding, and system integration, making it ideal for beginners and valuable for showcasing on platforms like GitHub.
 
 *OUTPUT*:
-<img width="1345" height="944" alt="Image" src="https://github.com/user-attachments/assets/e55f3f92-c534-44f3-91af-ead3e615f8c9" />
-<img width="1345" height="945" alt="Image" src="https://github.com/user-attachments/assets/aaa6b36b-b8a8-4a1c-a65a-ddc64538fec9" />
-<img width="1347" height="940" alt="Image" src="https://github.com/user-attachments/assets/1917bb81-7503-445d-a65e-f9111d663811" />
+<img width="1111" height="822" alt="Image" src="https://github.com/user-attachments/assets/d4b82417-0fa9-437f-89fa-4b8e5cac0bb5" />
+<img width="1350" height="942" alt="Image" src="https://github.com/user-attachments/assets/b00a4380-0bb0-40e3-83c2-fe32855d61e7" />
+<img width="1345" height="944" alt="Image" src="https://github.com/user-attachments/assets/b4722460-494c-42a7-af84-e8588cf054ea" />
 
